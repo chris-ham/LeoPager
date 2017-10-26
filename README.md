@@ -1,5 +1,5 @@
 # LeoPager
-Project that enables a web page interface running on a Raspberry Pi to send 433MHz pager messages using a LeoStick.
+Project that enables a web page interface running on a Raspberry Pi to send 433MHz pager messages using a LeoStick. The restaurant pager that have been tested with this design are from AliExpress here https://www.aliexpress.com/item/Guest-Coaster-Pager-System-for-order-taking-one-set-CTP320/32816821424.html?spm=a2g0s.9042311.0.0.RaPpa7
 
 The LeoStick https://www.freetronics.com.au/products/leostick#.WfGg4miCwUE receives messages via its USB interface and transmits the pager message out of a software serial port.
 
